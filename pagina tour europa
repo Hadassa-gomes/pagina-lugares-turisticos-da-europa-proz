@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Turísticos na Europa</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Lugares Turísticos na Europa</h1>
+    </div>
+    <div class="container">
+        <div class="card">
+            <img src="https://example.com/paris.jpg" alt="Torre Eiffel, Paris">
+            <div class="card-content">
+                <h3>Torre Eiffel, Paris</h3>
+                <p>A Torre Eiffel é um dos monumentos mais icônicos do mundo, localizada no coração de Paris.</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://example.com/colosseum.jpg" alt="Coliseu, Roma">
+            <div class="card-content">
+                <h3>Coliseu, Roma</h3>
+                <p>O Coliseu é um antigo anfiteatro romano, conhecido por suas grandiosas lutas de gladiadores.</p>
+            </div>
+        </div>
+        <div class="card">
+            <img src="https://example.com/sagradafamilia.jpg" alt="Sagrada Família, Barcelona">
+            <div class="card-content">
+                <h3>Sagrada Família, Barcelona</h3>
+                <p>A Sagrada Família é uma basílica católica desenhada pelo famoso arquiteto Antoni Gaudí.</p>
+            </div>
+        </div>
+        <!-- Adicione mais cards conforme necessário -->
+    </div>
+</body>
+</html>
