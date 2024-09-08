@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marco Zero - Recife</title>
+</head>
+<body>
+    <div class="header">
+        <h1>Marco Zero - Recife</h1>
+    </div>
+    <div class="content">
+        <h2>Sobre o Marco Zero</h2>
+        <p><strong>Marco Zero</strong> é um dos pontos turísticos mais emblemáticos do Recife, localizado no bairro do Recife Antigo. É o ponto de partida para a contagem das distâncias rodoviárias da cidade.</p>
+        <img src="https://example.com/marcozero.jpg" alt="Marco Zero, Recife">
+        <p>O local é conhecido por sua <em>beleza arquitetônica</em> e por ser um espaço de eventos culturais e artísticos. Ao redor do Marco Zero, você encontra diversos bares, restaurantes e lojas, tornando-o um ponto de encontro popular tanto para turistas quanto para os moradores locais.</p>
+    </div>
+    <div class="footer">
+        <p>&copy; 2024 Turismo Recife. Todos os direitos reservados.</p>
+    </div>
+</body>
+</html>
